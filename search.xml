@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[快速选择长条数据]]></title>
     <url>%2F2017%2F08%2F09%2FselectLongData%2F</url>
-    <content type="text"><![CDATA[分享一个选择长条数据的小技巧 在一个很长很长的文本，在文本开头处，选择你要开始选择的内容，选择一部分后，按住Shift键，然后用鼠标点击右边的滚动条直到你要选择的文本处，点击一下，就可以看到你想要的文本已经被选中了。]]></content>
+    <content type="text"><![CDATA[选择长条数据,手都到桌外面了,还是选不完整,怎么破？ 分享一个选择长条数据的小技巧 在一个很长很长的文本，在文本开头处，选择你要开始选择的内容，选择一部分后，按住Shift键，然后用鼠标点击右边的滚动条直到你要选择的文本处，点击一下，就可以看到你想要的文本已经被选中了。]]></content>
       <tags>
         <tag>小技巧</tag>
       </tags>
@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[看视频不再有广告]]></title>
     <url>%2F2017%2F08%2F09%2FremoveAd%2F</url>
-    <content type="text"><![CDATA[除360浏览器和火狐(firefox)浏览器都支持这里用我常用的谷歌浏览器来示例，要不你也下载一个chrome 打开谷歌浏览器，在搜索栏输入 chrome://extensions/ 点击下面链接，把文件下载下来 将下载的文件拖到打开的页面内，弹框提示以后点击安装 over 文件直达车]]></content>
+    <content type="text"><![CDATA[看个视频还要等广告，是不是很烦，点进去按照步骤操作，广告不再有。 除360浏览器和火狐(firefox)浏览器都支持这里用我常用的谷歌浏览器来示例，要不你也下载一个chrome 打开谷歌浏览器，在搜索栏输入 chrome://extensions/ 点击下面链接，把文件下载下来 将下载的文件拖到打开的页面内，弹框提示以后点击安装 OVER —–&gt; 文件直达车 360浏览器和火狐(firefox)浏览器点击广告净化器,去官网下载需要使用到的插件。]]></content>
       <tags>
         <tag>小技巧</tag>
       </tags>
@@ -25,7 +25,7 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Hello Stranger]]></title>
+    <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F08%2F07%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
       <tags>
