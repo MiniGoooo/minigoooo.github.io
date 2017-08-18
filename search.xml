@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[没有VIP就不能看VIP视频了嘛]]></title>
+    <url>%2F2017%2F08%2F18%2FwatchVipVideo%2F</url>
+    <content type="text"><![CDATA[现在看个视频各种会员，可能更多的情况都是看某个影视需要一下会员，那总不能为了某个影视去买一个会员，其实也挺浪费的，下面就教你们怎么看VIP视频。过程并不麻烦，但若觉得麻烦，请直接购买相应的VIP即可。 准备工作 浏览器使用谷歌浏览器:Chrome。 将下面文件直达车里面的两个文件下载下来。 文件直达车： VIP视频破解 密码: 4uad 开始操作下载文件有两个：油猴Chrome插件、VIP脚本,使用方法如下: 1.打开谷歌浏览器,搜索框输入 chrome://extensions/回车,将文件油猴Chrome插件拖进去,添加扩展程序。 2.点击插件图标,点击添加脚本。 3.将文件VIP脚本使用记事本或者浏览器打开,将所有的内容复制,粘贴到被清空的方框内,最后Ctrl键+S保存。 如何使用稍后补充！]]></content>
+      <tags>
+        <tag>vip</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F08%2F15%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[快速选择长条数据]]></title>
     <url>%2F2017%2F08%2F09%2FselectLongData%2F</url>
     <content type="text"><![CDATA[选择长条数据,手都到桌外面了,还是选不完整,怎么破？ 分享一个选择长条数据的小技巧 在一个很长很长的文本，在文本开头处，选择你要开始选择的内容，选择一部分后，按住Shift键，然后用鼠标点击右边的滚动条直到你要选择的文本处，点击一下，就可以看到你想要的文本已经被选中了。]]></content>
@@ -22,14 +38,6 @@
     <content type="text"><![CDATA[还记得你什么时候注册的QQ嘛？ 还记得你加的第一位QQ好友嘛？ 按照下面步骤 点击进入： QQ官网 点击右上角登陆，登陆进去 页面鼠标右击：如图所示，点击审核元素 ) 然后点击如图所示的console 将下面的代码复制粘贴到图片中top字母下面的空白处，然后回车！ $.ajax({ url : ‘https://ti.qq.com/mqqbase/cgi/medalwall/medalguide‘, dataType: ‘json’, type : ‘POST’, xhrFields: {withCredentials: true}, crossDomain: true, contentType: “application/json”, success:function(data){ if(data.errCode!=0){ alert(“你没登录?”); return; } var d=new Date(); d.setTime(data.data.registDate); alert(“注册时间:”+d.toLocaleString()+” 第一个添加的好友:”+data.data.firstFriend)} }); 如果提示没有登陆那么就退出再登陆一下 竟然不管用了，请求的网址应该被去掉了（404）。 下图是我第一次请求的效果：]]></content>
       <tags>
         <tag>QQ</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F08%2F07%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <tags>
-        <tag>Java</tag>
       </tags>
   </entry>
 </search>
