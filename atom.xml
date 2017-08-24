@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://minigoooo.github.io/"/>
-  <updated>2017-08-21T03:14:44.415Z</updated>
+  <updated>2017-08-24T09:08:14.967Z</updated>
   <id>http://minigoooo.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Apple的Wallet还能这么玩?</title>
+    <link href="http://minigoooo.github.io/2017/08/24/appleWallet/"/>
+    <id>http://minigoooo.github.io/2017/08/24/appleWallet/</id>
+    <published>2017-08-24T09:01:16.000Z</published>
+    <updated>2017-08-24T09:08:14.967Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+    
+    </summary>
+    
+    
+      <category term="apple" scheme="http://minigoooo.github.io/tags/apple/"/>
+    
+      <category term="wallet" scheme="http://minigoooo.github.io/tags/wallet/"/>
+    
+  </entry>
   
   <entry>
     <title>没有VIP就不能看VIP视频了嘛</title>
