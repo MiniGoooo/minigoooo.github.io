@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://minigoooo.github.io/"/>
-  <updated>2017-08-26T08:53:10.590Z</updated>
+  <updated>2017-08-26T09:01:23.586Z</updated>
   <id>http://minigoooo.github.io/</id>
   
   <author>
@@ -20,17 +20,17 @@
     <link href="http://minigoooo.github.io/2017/08/24/appleWallet/"/>
     <id>http://minigoooo.github.io/2017/08/24/appleWallet/</id>
     <published>2017-08-24T09:01:16.000Z</published>
-    <updated>2017-08-26T08:53:10.590Z</updated>
+    <updated>2017-08-26T09:01:23.586Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170826/abfiBbj81m.jpg?imageslim" alt="Wallet"></p>
 <blockquote>
 <p>想必很多Apple的忠实粉丝都知道这个APP:Wallet。Apple今年的新品发布会在九月中旬也会如期而至,很多人希望Apple开放NFC功能,将其用于公交卡、地铁卡等等。此时需要借助的APP就是今天的主角–Wallet:制作属于自己的快捷微信/支付宝卡片。</p>
 </blockquote>
 <a id="more"></a>
-<h2 id="最终效果"><a href="#最终效果" class="headerlink" title="最终效果"></a>最终效果</h2><p><strong>iPhone媳屏的条件下,双击Home键,OK,别人就可以给你付钱了</strong></p>
+<h2 id="最终效果"><a href="#最终效果" class="headerlink" title="最终效果"></a>最终效果</h2><p><strong>iPhone媳屏的条件下,双击Home键,OK,别人就可以给你付钱了;如果是微信加好友的二维码,别人就可以加你好友了</strong></p>
 <p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170826/3IlaaD93fc.jpg?imageslim" alt="效果显示"></p>
 <h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol>
-<li>一个普通的<strong>二维码</strong>。</li>
+<li>一个普通的<strong>二维码</strong>,微信、QQ、支付等等。</li>
 <li><strong>网站一</strong> : <a href="https://www.passsource.com/pass/register.php?templateId=5&amp;" target="_blank" rel="external">Wallet卡片制作</a>。</li>
 <li><strong>网站二</strong> : <a href="https://www.hotapp.cn/jiema" target="_blank" rel="external">二维码解码</a>。</li>
 </ol>
@@ -42,7 +42,8 @@
 <p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170826/m20j6l70BI.png?imageslim" alt="添加"></p>
 <p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170826/1IGLeb5beL.png?imageslim" alt="右键"></p>
 <h2 id="卡片更新"><a href="#卡片更新" class="headerlink" title="卡片更新"></a>卡片更新</h2><p>iPhone手机上打开Wallet,卡片的右下方有一个感叹号,点击后卡片会翻转,可以看到一个网址,将网址复制出来,浏览器打开就可以进行信息更新。</p>
-<h2 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h2><p>不知道有没有注意到上面效果图中的二维码其实是二合一的,不管用支付宝还是微信都可以扫。至于怎么做到的就是<strong>网站一</strong>中选择收款码合并,创建一个二维码,接下来的操作如上所示。如果你喜欢,你可以请我吃糖。</p>
+<h2 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h2><p>你可以更换为微信或者QQ二维码,更便捷让别人加你为好友。</p>
+<p>不知道有没有注意到上面效果图中的二维码其实是二合一的,不管用支付宝还是微信都可以扫。至于怎么做到的就是<strong>网站一</strong>中选择收款码合并,创建一个二维码,接下来的操作如上所示。如果你喜欢,你可以请我吃糖。</p>
 ]]></content>
     
     <summary type="html">
