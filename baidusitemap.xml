@@ -4,16 +4,35 @@
 
     
   <url>
-    <loc>http://minigoooo.github.io/2017/08/24/appleWallet/</loc>
-    <lastmod>2017-08-29T08:16:37.000Z</lastmod>
+    <loc>http://minigoooo.github.io/2017/09/07/aria2AndIDM/</loc>
+    <lastmod>2017-09-07T08:00:18.542Z</lastmod>
     <data>
         <display>
-        <title>Apple的Wallet还能这么玩</title>
-        <pubTime>2017-08-24T09:01:16.000Z</pubTime>
+        <title>让Aria2和IDM不再"闲置"</title>
+        <pubTime>2017-09-07T07:58:16.000Z</pubTime>
         
-        <tag>apple</tag>
+        <tag>aria2</tag>
          
-        <tag>wallet</tag>
+        <tag>idm</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://minigoooo.github.io/2017/09/07/appleWallet/</loc>
+    <lastmod>2017-09-07T07:57:52.311Z</lastmod>
+    <data>
+        <display>
+        <title>让Aria2和IDM不再"闲置"</title>
+        <pubTime>2017-09-07T09:01:16.000Z</pubTime>
+        
+        <tag>aria2</tag>
+         
+        <tag>idm</tag>
          
          
            

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://minigoooo.github.io/"/>
-  <updated>2017-08-10T09:23:27.000Z</updated>
+  <updated>2017-09-07T07:57:52.311Z</updated>
   <id>http://minigoooo.github.io/</id>
   
   <author>
@@ -16,43 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://minigoooo.github.io/2017/09/05/hello-world/"/>
-    <id>http://minigoooo.github.io/2017/09/05/hello-world/</id>
-    <published>2017-09-05T10:05:17.181Z</published>
-    <updated>2017-08-10T09:23:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170810/mgBdI05JL4.jpg?imageslim" alt="Hello World"></p>
-<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ouesmsejm.bkt.clouddn.com/blog/170810/mgBdI05JL4.jpg?imageslim&quot; alt=&quot;Hello World&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Java" scheme="http://minigoooo.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Apple的Wallet还能这么玩</title>
-    <link href="http://minigoooo.github.io/2017/08/24/appleWallet/"/>
-    <id>http://minigoooo.github.io/2017/08/24/appleWallet/</id>
-    <published>2017-08-24T09:01:16.000Z</published>
-    <updated>2017-08-29T08:16:37.000Z</updated>
+    <title>让Aria2和IDM不再&quot;闲置&quot;</title>
+    <link href="http://minigoooo.github.io/2017/09/07/appleWallet/"/>
+    <id>http://minigoooo.github.io/2017/09/07/appleWallet/</id>
+    <published>2017-09-07T09:01:16.000Z</published>
+    <updated>2017-09-07T07:57:52.311Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170829/fB94a9mEIg.jpg?imageslim" alt="Wallet"></p>
 <blockquote>
@@ -87,9 +55,115 @@
     </summary>
     
     
-      <category term="apple" scheme="http://minigoooo.github.io/tags/apple/"/>
+      <category term="aria2" scheme="http://minigoooo.github.io/tags/aria2/"/>
     
-      <category term="wallet" scheme="http://minigoooo.github.io/tags/wallet/"/>
+      <category term="idm" scheme="http://minigoooo.github.io/tags/idm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>让Aria2和IDM不再&quot;闲置&quot;</title>
+    <link href="http://minigoooo.github.io/2017/09/07/aria2AndIDM/"/>
+    <id>http://minigoooo.github.io/2017/09/07/aria2AndIDM/</id>
+    <published>2017-09-07T07:58:16.000Z</published>
+    <updated>2017-09-07T08:00:18.542Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170907/DbH1i4AJGK.jpg?imageslim" alt="mark"></p>
+<blockquote>
+<p>2016年5月11日那天写了这篇：<a href="https://sspai.com/post/34072" target="_blank" rel="external">Windows下Aria2的使用,IDM的另一个好伙伴</a>，文章中有简单的介绍到Aria2的好处，其中有关Aria2的配置占有了很大的篇幅。好吧，现在咱们来化繁从简，下面将介绍到使用Aria2或者IDM（全名：Internet Download Manager）下载百度云网盘中的文件。</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p><strong>工具一</strong>：<a href="https://pan.baidu.com/s/1o8dZaKM" target="_blank" rel="external">Aria2准备资料</a></p>
+<p><strong>工具二</strong>：<a href="http://ziahamza.github.io/webui-aria2/" target="_blank" rel="external">Aria2任务的下载WebUI</a></p>
+<p><strong>工具三</strong>：Window版的IDM客户端</p>
+<p><strong>工具四</strong>：谷歌浏览器或者火狐浏览器</p>
+<h2 id="工具安装"><a href="#工具安装" class="headerlink" title="工具安装"></a>工具安装</h2><ol>
+<li>将<strong>工具一</strong>中的<strong>Aria2</strong>和<strong>BaiduExporter</strong>分别解压。</li>
+</ol>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-ef7512107861493f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="文件解压"></p>
+<ol>
+<li>先来看<strong>Aria2</strong>解压后的文件，其中<strong>1</strong>是：保存从百度云网盘中下载的文件；<strong>2</strong>是：Aria2的启动程序，双击即可开启；<strong>3</strong>是：保存Aria2需要下载的任务，在不使用Aria2的情况下，可以删除文件中的内容。— 此时启动Aria2程序。</li>
+</ol>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-140f0db358743a8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Aria2"></p>
+<ol>
+<li><p>再来看<strong>BaiduExporter</strong>解压后的文件：</p>
+<ul>
+<li>在谷歌浏览器中输入<strong>chrome://extensions</strong>,勾选<strong>开发者模式</strong>，点击<strong>加载已解压的扩展程序</strong>，选择到文件夹BaiduExporter。点击确定即可，最后勾选<strong>在隐身模式下启动</strong>。</li>
+</ul>
+</li>
+</ol>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-79b8257cec5a43ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="文件夹详情"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-a4be84afe7c2455c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="开发者模式开启"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-fee662bcbb491a90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="勾选扩展"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-64bf230f9961ac62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="隐身模式开启"></p>
+<ul>
+<li>在火狐浏览中输入<strong>about:debugging#addons</strong>，点击<strong>临时载入附加组件</strong>，进入到该解压文件中选择<strong>mainfest</strong>文件，最后点击<strong>打开</strong>即可。</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-07891885d4902c16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="进入扩展添加"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-3e431b5b3c819866.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="勾选扩展"></p>
+<h2 id="工具使用"><a href="#工具使用" class="headerlink" title="工具使用"></a>工具使用</h2><p>此时：工具安装完毕之后，确保Aria2程序已经启动，插件已经安装OK。</p>
+<h5 id="配合百度云网盘使用"><a href="#配合百度云网盘使用" class="headerlink" title="配合百度云网盘使用"></a>配合百度云网盘使用</h5><ul>
+<li>点击进入<strong>工具二</strong>，点击<strong>设置</strong>–<strong>连接设置</strong>，修改<strong>主机</strong>为<strong>localhost</strong>，<strong>端口</strong>为默认的<strong>6800</strong>，保存设置即可。</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-acfcf0cc7518ef8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="连接设置"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-4e6b490a0d47b568.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="主机和端口配置"></p>
+<ul>
+<li>进入到自己的百度云网盘中，勾选要下载的文件，点击<strong>导出下载</strong>，选择<strong>ARIA2 RPC</strong>即可。此时，回到上一步中查看任务下载的详情，下载的任务可以在文件夹<strong>Aria2Data</strong>找到。</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-e78b20dd2b065f4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="导出下载"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-9a51257c27f661fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="文件下载详情"></p>
+<h5 id="配合IDM使用"><a href="#配合IDM使用" class="headerlink" title="配合IDM使用"></a>配合IDM使用</h5><p>如果你的电脑上要是有<strong>工具三</strong>，还可以配合这个插件使用，依次点击<strong>导出下载</strong>–<strong>导出下载</strong>–<strong>存为IDM文件</strong>。将下载的文件导入到IDM中，开启任务下载即可。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-351bbc1c48354ef7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="IDM下载文件"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-d1939df8dda0624a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="存为IDM文件"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1748990-b7d6e77700b79aad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="导入"></p>
+<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p><strong>我的微博：Mini_Goooo</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ouesmsejm.bkt.clouddn.com/blog/170907/DbH1i4AJGK.jpg?imageslim&quot; alt=&quot;mark&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2016年5月11日那天写了这篇：&lt;a href=&quot;https://sspai.com/post/34072&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Windows下Aria2的使用,IDM的另一个好伙伴&lt;/a&gt;，文章中有简单的介绍到Aria2的好处，其中有关Aria2的配置占有了很大的篇幅。好吧，现在咱们来化繁从简，下面将介绍到使用Aria2或者IDM（全名：Internet Download Manager）下载百度云网盘中的文件。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="aria2" scheme="http://minigoooo.github.io/tags/aria2/"/>
+    
+      <category term="idm" scheme="http://minigoooo.github.io/tags/idm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://minigoooo.github.io/2017/09/05/hello-world/"/>
+    <id>http://minigoooo.github.io/2017/09/05/hello-world/</id>
+    <published>2017-09-05T10:05:17.181Z</published>
+    <updated>2017-08-10T09:23:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ouesmsejm.bkt.clouddn.com/blog/170810/mgBdI05JL4.jpg?imageslim" alt="Hello World"></p>
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ouesmsejm.bkt.clouddn.com/blog/170810/mgBdI05JL4.jpg?imageslim&quot; alt=&quot;Hello World&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://minigoooo.github.io/tags/Java/"/>
     
   </entry>
   
