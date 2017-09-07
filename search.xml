@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F09%2F05%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Apple的Wallet还能这么玩]]></title>
     <url>%2F2017%2F08%2F24%2FappleWallet%2F</url>
     <content type="text"><![CDATA[想必很多Apple的忠实粉丝都知道这个APP:Wallet。Apple今年的新品发布会在九月中旬也会如期而至,很多人希望Apple开放NFC功能,将其用于公交卡、地铁卡等等。此时需要借助的APP就是今天的主角–Wallet:制作属于自己的快捷微信/支付宝卡片。 最终效果iPhone媳屏的条件下,双击Home键,OK,别人就可以给你付钱了;如果是微信加好友的二维码,别人就可以加你好友了 准备工作 一个普通的二维码,微信、QQ、支付等等。 网站一 : Wallet卡片制作。 网站二 : 二维码解码。 开始制作1.进入网站二,将准备好的二维码上传,把解析结果复制保存。 2.进入网站一,其中黄色的则可以随意,蓝色的第一个必须是QR,清空掉第二个框中的内容,然后将上一步保存的解析结果粘贴到此处。强调:其中Background Color就是最终卡片的整体颜色,最下方的两个选择文件,使用你喜欢的头像图片放入即可,两个选择文件都必须选择,不可以只选择一个。 3.最后,点击Regitser,当然你也可以点击浏览器的返回上一页进行适当的调整,直到满意为止。若是电脑上右键add to Apple Wallet按钮,选择复制链接地址,然后发送到自己的iPhone上,用safari浏览器打开,就会提示你添加卡片到Wallet中。若是iPhone手机,则可以直接点击按钮添加。 卡片更新iPhone手机上打开Wallet,卡片的右下方有一个感叹号,点击后卡片会翻转,可以看到一个网址,将网址复制出来,浏览器打开就可以进行信息更新。 进阶不知道有没有注意到上面效果图中的二维码其实是二合一的,不管用支付宝还是微信都可以扫。至于怎么做到的就是网站一中选择收款码合并,创建一个二维码,接下来的操作如上所示。如果你喜欢,你可以请我吃糖。]]></content>
@@ -15,14 +23,6 @@
     <content type="text"><![CDATA[现在看个视频各种会员，可能更多的情况都是看某个影视需要一下会员，那总不能为了某个影视去买一个会员，其实也挺浪费的，下面就教你们怎么看VIP视频。过程并不麻烦，但若觉得麻烦，请直接购买相应的VIP即可。 准备工作 浏览器使用谷歌浏览器:Chrome。 将下面文件直达车里面的三个文件下载下来。 文件直达车： VIP视频破解 密码: 53sj 开始操作下载文件有三个：油猴Chrome插件、VIP脚本,豆瓣-时光网搜索脚本使用方法如下: 1.打开谷歌浏览器,搜索框输入 chrome://extensions/回车,将文件油猴Chrome插件拖进去,添加扩展程序。 2.点击插件图标,点击添加脚本。 3.将文件VIP脚本使用记事本或者浏览器打开,将所有的内容复制,粘贴到被清空的方框内,最后Ctrl键+S保存。 4.同理,再次点击插件图标,点击添加脚本,将文件豆瓣-时光网搜索脚本的内容复制,粘贴到一个新的被清空的方框内。–此时你添加了两个脚本!!! 如何使用VIP脚本的使用 : 电脑上打开腾讯视频或者爱奇艺或者优酷等其他网站。选择你要看的视频，可以看到视频标题旁边会有一个红色按钮VIP解析,点击即可观看VIP视频。 豆瓣-时光网搜索脚本的使用 : 电脑上在豆瓣电影,预告片世界,时光电影的网页里,影视剧旁边会出现按钮搜索本片。 推荐:疯狂电影解析找资源还是很给力的。 IOS上观看VIP视频请等待······]]></content>
       <tags>
         <tag>vip</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F08%2F15%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <tags>
-        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
